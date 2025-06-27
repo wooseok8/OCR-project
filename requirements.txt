@@ -1,0 +1,10 @@
+selenium
+requests
+pytesseract
+pillow
+beautifulsoup4
+opencv-python
+tqdm
+pandas
+webdriver-manager
+python-dotenv
